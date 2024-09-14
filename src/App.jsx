@@ -1,6 +1,6 @@
 import './App.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Applayout from './layouts/app-layout'
+import Applayout from './layouts/App-layout'
 import LandingPage from './pages/LandingPage'
 import Onboarding from './pages/Onboarding'
 import JobListing from './pages/JobListing'
